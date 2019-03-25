@@ -177,3 +177,9 @@ input {
     color: $state-danger-text;
   }
 }
+
+/* flash alerts */
+
+.alert {
+  border: 1px solid yellow;
+}
